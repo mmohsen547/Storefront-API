@@ -60,17 +60,17 @@ SECRET_TOKEN=secret-token
 # Environmet variable
 ENV=dev
 ```
-#### make migration
+#### Make migrations
 ```shell
 db-migrate up
 ```
 
-#### test the application
+#### Test the application
 ```shell
 npm test
 ```
 
-#### run the application
+#### Run the application
 ```shell
 npm start
 ```
